@@ -20,7 +20,7 @@ Developed a sensor-based system that triggers a light using sound detection, dem
 ## 📬 *Connect*
 - ✉ *Email*: [nithishkl1710@gmail.com](mailto:nithishkl1710@gmail.com)  
 - 🔗 *LinkedIn*: [linkedin.com/in/nithishkl1710](https://www.linkedin.com/in/nithishkl1710)  
-- 💻 *LeetCode*: ![LeetCode Stats](https://leetcard.jacoblin.cool/Nithishkl1710?theme=dark&font=Marcellus&ext=contest)
+- 💻  [![LeetCode Stats](https://leetcard.jacoblin.cool/Nithishkl1710?theme=dark&font=Marcellus&ext=contest)]
 
 ---
 
